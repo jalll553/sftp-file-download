@@ -1,19 +1,30 @@
-# SFTP File Server Mini Project
+# 📁 SFTP File Server – Mini Project
 
-This project is part of my mini project for setting up an SFTP server using WSL (Ubuntu) and OpenSSH.
+This repository documents a mini project where I set up an **SFTP (Secure File Transfer Protocol) server** using **WSL (Ubuntu)** and **OpenSSH**. It includes a sample file upload and outlines the steps and learnings from the process.
 
-## What This Repo Contains
+---
 
-- `yourfile.txt` – A sample file that was uploaded to the SFTP server and now hosted here on GitHub for download.
+## 📦 Repository Contents
 
-## How to Download
+- [`yourfile.txt`](./yourfile.txt) – A sample file that was uploaded to the SFTP server and is now hosted here on GitHub for public download.
 
-Click on the file above and press **Raw** to open the file directly.  
-Right-click and select **Save As...** to download it.
+---
 
-## What I Learned
+## ⬇️ How to Download the File
 
-- What is SSH and SFTP
-- How to install OpenSSH in WSL
-- How to create users and secure folders
-- How to upload a file to GitHub and share it
+1. Click on [`yourfile.txt`](./yourfile.txt).
+2. Click **Raw** to open the file directly.
+3. Right-click and choose **Save As...** to download it.
+
+---
+
+## 🧠 What I Learned
+
+- ✅ What SSH and SFTP are and how they work.
+- ✅ How to install and configure **OpenSSH** on **WSL (Ubuntu)**.
+- ✅ How to create users, set permissions, and secure file directories.
+- ✅ How to upload and host files using GitHub.
+
+---
+
+> Feel free to **fork** or **star** this repo if you're exploring SFTP or SSH for your own learning projects!
